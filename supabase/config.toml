@@ -1,0 +1,4 @@
+project_id = "ojcndazbdaovytaibyxv"
+
+[functions.analyze-creative]
+verify_jwt = false
